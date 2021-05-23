@@ -2,7 +2,7 @@
 
 This assignment is used for evaluating frontend developer which applied for Monkey Everyday.
 
-At the end of this project you expected to deliver a website from scratch with the following requirements:
+At the end of this project you are expected to deliver a website from scratch with the following requirements:
 
 ## Website requirements
 
