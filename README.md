@@ -1,11 +1,27 @@
-# frontend-assignment
-## Requirements
-- Create [NextJS](https://nextjs.org/) project
-- Use [Tailwind](https://tailwindcss.com/) as css framework
-- Fetch weather data via graphql. Read more information about API [here](https://github.com/konstantinmuenster/graphql-weather-api)
-- Site output should be like UI design in this [Figma](https://www.figma.com/file/cREUbKpzJvyoeCRostZlLy/MonkeyEverydayAssignment?node-id=0%3A1)
-- Phuket [assets](https://images.unsplash.com/photo-1589394815804-964ed0be2eb5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1290&q=80)
-- Chiangmai [assets](https://images.unsplash.com/photo-1544467187-784a3534a696?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=675&q=80)
-- Bangkok [assets](https://images.unsplash.com/photo-1523731407965-2430cd12f5e4?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80)
-## How to deliver
-Push your code to github as public repository and attach project url to apply your work.
+# Monkey everyday frontend assignment
+
+This assignment is used for evaluating frontend developer which applied for Monkey Everyday.
+
+At the end of this project you expected to deliver a website from scratch with the following requirements:
+
+## Website requirements
+
+- Framework of the website should be developed using [NextJS](https://nextjs.org/).
+- CSS frame work is required to use [Tailwind](https://tailwindcss.com/) css.
+- Connect to external API using [Graphql](https://www.apollographql.com/docs/react/) to connect to the following weather API.
+- For more information of Weather API can be found on this [github](https://github.com/konstantinmuenster/graphql-weather-api).
+- Design of website can be found in [this](https://www.figma.com/file/cREUbKpzJvyoeCRostZlLy/MonkeyEverydayAssignment?node-id=0%3A1) figma file
+
+### Assets
+
+The assets for UI in figma is the followings
+
+- Bangkok => https://images.unsplash.com/photo-1523731407965-2430cd12f5e4
+- Chiangmai => https://images.unsplash.com/photo-1544467187-784a3534a696
+- Phuket => https://images.unsplash.com/photo-1589394815804-964ed0be2eb5
+
+## Submission
+
+The expected result of this assessment is expected in format of public github repository.
+
+You can submitted the url by replying to recruitment email.
