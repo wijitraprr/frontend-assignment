@@ -8,7 +8,7 @@ At the end of this project you are expected to deliver a website from scratch wi
 
 - Framework of the website should be developed using [NextJS](https://nextjs.org/).
 - CSS frame work is required to use [Tailwind](https://tailwindcss.com/) css.
-- Connect to external API using [Graphql](https://www.apollographql.com/docs/react/) to connect to the following weather API.
+- Connect to external API using [Graphql](https://www.apollographql.com/docs/react/) to connect to the following weather [API](https://graphql-weather-api.herokuapp.com).
 - For more information of Weather API can be found on this [github](https://github.com/konstantinmuenster/graphql-weather-api).
 - Design of website can be found in [this](https://www.figma.com/file/cREUbKpzJvyoeCRostZlLy/MonkeyEverydayAssignment?node-id=0%3A1) figma file
 
