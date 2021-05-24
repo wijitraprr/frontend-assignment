@@ -2,7 +2,7 @@
 
 This assignment is used for evaluating frontend developer which applied for Monkey Everyday. You have 3 hours to complete this assignment including sending email back assignment to recruiter.
 
-At the end of this project you are expected to deliver a website from scratch with the following requirements:
+At the end of this project you are expected to deliver a website writing from scratch with the following requirements:
 
 ## Website requirements
 
