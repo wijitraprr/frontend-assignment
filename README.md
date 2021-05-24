@@ -1,6 +1,6 @@
 # Monkey everyday frontend assignment
 
-This assignment is used for evaluating frontend developer which applied for Monkey Everyday.
+This assignment is used for evaluating frontend developer which applied for Monkey Everyday. You have 3 hours to complete this assignment including sending email back assignment to recruiter.
 
 At the end of this project you are expected to deliver a website from scratch with the following requirements:
 
@@ -11,6 +11,7 @@ At the end of this project you are expected to deliver a website from scratch wi
 - Connect to external API using [Graphql](https://www.apollographql.com/docs/react/) to connect to the following weather [API](https://graphql-weather-api.herokuapp.com).
 - For more information of Weather API can be found on this [github](https://github.com/konstantinmuenster/graphql-weather-api).
 - Design of website can be found in [this](https://www.figma.com/file/cREUbKpzJvyoeCRostZlLy/MonkeyEverydayAssignment?node-id=0%3A1) figma file
+- Using typescript is preffered but **not required**
 
 ### Assets
 
