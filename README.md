@@ -10,12 +10,12 @@ At the end of this project you are expected to deliver a website from scratch wi
 - CSS frame work is required to use [Tailwind](https://tailwindcss.com/) css.
 - Connect to external API using [Graphql](https://www.apollographql.com/docs/react/) to connect to the following weather [API](https://graphql-weather-api.herokuapp.com).
 - For more information of Weather API can be found on this [github](https://github.com/konstantinmuenster/graphql-weather-api).
-- Design of website can be found in [this](https://www.figma.com/file/cREUbKpzJvyoeCRostZlLy/MonkeyEverydayAssignment?node-id=0%3A1) figma file
-- Using typescript is preferred but **not required**
+- Design of website can be found in [this](https://www.figma.com/file/cREUbKpzJvyoeCRostZlLy/MonkeyEverydayAssignment?node-id=0%3A1) figma file.
+- Using typescript is preferred but **not required**.
 
 ### Assets
 
-The assets for UI in figma is the followings
+The assets for UI in figma is the followings:
 
 - Bangkok => https://images.unsplash.com/photo-1523731407965-2430cd12f5e4
 - Chiangmai => https://images.unsplash.com/photo-1544467187-784a3534a696
